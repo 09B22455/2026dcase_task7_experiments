@@ -2,7 +2,7 @@
 
 # 2026dcase_task7_experiments
 
-DCASE 2026 Task 7: Domain-Incremental Learning (DIL) experiments using VAE-based domain reliability estimation and ConfidNet-based model selection.
+DCASE Task 7 domain-agnostic incremental learning with VAE and ConfidNet-based model selection.
 
 ## Overview
 
