@@ -1,0 +1,8 @@
+torch<2.2
+numpy<2
+pandas
+tqdm
+librosa==0.11.0
+torchlibrosa==0.1.0
+scikit-learn
+matplotlib>=3.10.9
